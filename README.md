@@ -16,7 +16,7 @@ O encapsulamento é um princípio da POO que envolve esconder os detalhes intern
 
 ---
 
-![Polimorfismo](polimorfismo.png)
+![Polimorfismo](polimofismo.png)
 
 ![Herança](heranca.png)
 
